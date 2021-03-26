@@ -1,2 +1,2 @@
 # MyNotes
-Misc notes
+Misc notes on research
